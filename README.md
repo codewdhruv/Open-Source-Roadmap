@@ -169,3 +169,4 @@ Found a bug? please create an issue.
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - A global fellowship program for women and non-binary coders where they work on existing open-source projects and expand their skillset.
 - [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
 
+![Alt](https://repobeats.axiom.co/api/embed/26386ee06ec3cd9d8e919d5ba6d42b9d871f1c25.svg "Repobeats analytics image")
